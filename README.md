@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my learning journey
 - 📫 How to reach me: https://www.linkedin.com/in/saoban-lateefat-459930218/
 - 😄 Pronouns: SHE/HER
-- <!--
+ <!--
 - ⚡ Fun fact: ...
 -->
