@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my page
 
-<!--
-**Saoban123/Saoban123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my learning journey
 - 📫 How to reach me: https://www.linkedin.com/in/saoban-lateefat-459930218/
 - 😄 Pronouns: SHE/HER
+- <!--
 - ⚡ Fun fact: ...
 -->
