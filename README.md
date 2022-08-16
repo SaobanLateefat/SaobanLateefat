@@ -2,10 +2,8 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building my technical skill in data ananlysis
-- 🌱 I’m currently learning data analysis in the 30 Days of learning
+- 🌱 I’m currently learning data analysis 
 - 👯 I’m looking to collaborate on everything data analysis and data science
 - 🤔 I’m looking for help with breaking down technical concepts
 - 💬 Ask me about my learning journey
